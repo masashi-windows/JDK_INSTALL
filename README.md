@@ -11,9 +11,8 @@ Javaのサンプルソースを見るだけならランタイムだけあれば�
 下記のリンクからＪＤＫをダウンロードするサイトへ移動。  
 [http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-![01](https://github.com/miyake-yasunaga/JDK_INSTALL/blob/master/images/01.png)
-
 「こちら(ＵＳサイト)」のリンクでページ移動
+![01](https://github.com/miyake-yasunaga/JDK_INSTALL/blob/master/images/01.png)
 
 ![02](https://github.com/miyake-yasunaga/JDK_INSTALL/blob/master/images/02.png)
 
